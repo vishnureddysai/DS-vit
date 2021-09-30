@@ -1,0 +1,453 @@
+X,title,Production.company,Release.date,Running.time..int.,Budget..float.,Release.date..datetime.,boxcol
+1,Academy Award Review of,Walt Disney Productions,"['May 19, 1937']",41,NA,19-05-1937,45.472
+2,Snow White and the Seven Dwarfs,Walt Disney Productions,"['December 21, 1937 ( Carthay Circle Theatre )']",83,1490000,21-12-1937,NA
+3,Pinocchio,Walt Disney Productions,"['February 7, 1940 ( Center Theatre )', 'February 23, 1940 (United States)']",88,2600000,07-02-1940,NA
+4,Fantasia,Walt Disney Productions,"['November 13, 1940']",126,2280000,13-11-1940,NA
+5,The Reluctant Dragon,Walt Disney Productions,"['June 27, 1941']",74,6.00E+05,27-06-1941,NA
+6,Dumbo,Walt Disney Productions,"['October 23, 1941 (New York City)', 'October 31, 1941 (U.S.)']",64,950000,23-10-1941,NA
+7,Bambi,Walt Disney Productions,"['August 9, 1942 (World Premiere – London)', 'August 13, 1942 (Premiere – New York City)', 'August 21, 1942 (U.S.)']",70,858000,09-08-1942,267.4
+8,Saludos Amigos,Walt Disney Productions,"['August 24, 1942 (World Premiere – Rio de Janeiro)', 'February 6, 1943 (U.S. Premiere – Boston)', 'February 19, 1943 (U.S.)']",42,NA,24-08-1942,NA
+9,Victory Through Air Power,Walt Disney Productions,"['July 17, 1943']",70,788000,17-07-1943,NA
+10,The Three Caballeros,Walt Disney Productions,"['December 21, 1944 (Mexico City)', 'February 3, 1945 (US)']",71,NA,21-12-1944,NA
+11,Make Mine Music,Walt Disney Productions,"['April 20, 1946 (New York City premiere)', 'August 15, 1946 (U.S.)']",75,1350000,20-04-1946,3.355
+12,Song of the South,Walt Disney Productions,"['November 12, 1946 (Premiere: Atlanta, Georgia)', 'November 20, 1946', 'March 30, 1947 (Stanford Theatre, Palo Alto, California)']",94,2125000,12-11-1946,NA
+13,Fun and Fancy Free,Walt Disney Productions,"['September 27, 1947']",73,NA,27-09-1947,NA
+14,Melody Time,Walt Disney Productions,27-May-48,75,1500000,27-05-1948,NA
+15,So Dear to My Heart,Walt Disney Productions,"['November 29, 1948 (Chicago, Illinois)', 'January 19, 1949 (Indianapolis, Indiana)']",82,1500000,29-11-1948,3.7
+16,The Adventures of Ichabod and Mr. Toad,Walt Disney Productions,"['October 5, 1949']",68,NA,05-10-1949,NA
+17,Cinderella,Walt Disney Productions,"['February 15, 1950 (Boston)', 'March 4, 1950 (United States)']",74,2200000,15-02-1950,NA
+18,Treasure Island,Walt Disney Productions,"['June 22, 1950 (World Premiere- London )', 'July 29, 1950 ( US )']",96,1800000,22-06-1950,NA
+19,Alice in Wonderland,Walt Disney Productions,"['July 26, 1951 (London, premiere)', 'July 28, 1951 (New York City, premiere)']",75,3.00E+06,26-07-1951,NA
+20,The Story of Robin Hood,,"['March 13, 1952 (Premiere- London )', 'June 26, 1952 ( US )']",84,NA,13-03-1952,NA
+21,Peter Pan,Walt Disney Productions,"['February 5, 1953 (United States)']",77,4.00E+06,05-02-1953,NA
+22,The Sword and the Rose,Walt Disney Productions,"[""July 23, 1953 ('US )""]",92,2.00E+06,23-07-1953,1
+23,The Living Desert,Walt Disney Productions,"['November 10, 1953']",69,3.00E+05,10-11-1953,NA
+24,Rob Roy: The Highland Rogue,Walt Disney Productions,"['26 October 1953 (Premiere- London )', '27 February 1954 ( US )']",81,1800000,26-10-1953,NA
+25,The Vanishing Prairie,Walt Disney Productions,"['August 17, 1954']",60,NA,17-08-1954,20
+26,"20,000 Leagues Under the Sea",Walt Disney Productions,"['December 23, 1954']",127,5.00E+06,23-12-1954,NA
+27,Davy Crockett: King of the Wild Frontier,Walt Disney Productions,25-May-55,92,NA,25-05-1955,NA
+28,Lady and the Tramp,Walt Disney Productions,"['June 22, 1955']",76,4.00E+06,22-06-1955,NA
+29,The African Lion,Walt Disney Productions,"['September 14, 1955']",75,NA,14-09-1955,2.1
+30,The Littlest Outlaw,Walt Disney Productions,22-Dec-55,73,NA,22-12-1955,NA
+31,The Great Locomotive Chase,Walt Disney Productions,08-Jun-56,85,NA,08-06-1956,NA
+32,Davy Crockett and the River Pirates,Walt Disney Productions,18-Jul-56,81,NA,18-07-1956,NA
+33,Secrets of Life,Walt Disney Productions,"['September 4, 1956']",70,NA,04-09-1956,NA
+34,Westward Ho the Wagons!,Walt Disney Productions,"['December 20, 1956']",90,NA,20-12-1956,2.17
+35,Johnny Tremain,Walt Disney Productions,19-Jun-57,80,7.00E+05,19-06-1957,NA
+36,Perri,Walt Disney Productions,28-Aug-57,75,NA,28-08-1957,NA
+37,Old Yeller,Walt Disney Productions,"['December 25, 1957']",83,NA,25-12-1957,3.33
+38,The Light in the Forest,Walt Disney Productions,"['July 8, 1958']",83,NA,08-07-1958,NA
+39,White Wilderness,Walt Disney Productions,"['August 12, 1958']",72,NA,12-08-1958,NA
+40,Tonka,Walt Disney Productions,"['December 25, 1958']",97,NA,25-12-1958,NA
+41,Sleeping Beauty,Walt Disney Productions,"['January 29, 1959']",75,6.00E+06,29-01-1959,NA
+42,The Shaggy Dog,Walt Disney Productions,"['March 19, 1959']",104,1.00E+06,19-03-1959,NA
+43,Darby O'Gill and the Little People,Walt Disney Productions,"['June 24, 1959 (Dublin)', 'June 26, 1959 (Los Angeles)']",93,NA,24-06-1959,NA
+44,Third Man on the Mountain,Walt Disney Productions,"['November 10, 1959']",105,2.00E+06,10-11-1959,NA
+45,Toby Tyler or 10 Weeks with a Circus,Walt Disney Productions,"January 21, 1960 ( Sarasota, FL )",95,NA,21-01-1960,NA
+46,Kidnapped,Walt Disney Productions,"['February 24, 1960']",97,NA,24-02-1960,NA
+47,Pollyanna,Walt Disney Productions,19-May-60,134,2500000,19-05-1960,NA
+48,Jungle Cat,Walt Disney Productions,"['June 1960 ( Berlin )', 'August 10, 1960 (US)']",69,NA,,2.3
+49,Ten Who Dared,Walt Disney Productions,"['November 1, 1960']",92,NA,01-11-1960,NA
+50,Swiss Family Robinson,Walt Disney Productions,"['December 21, 1960']",131,4.00E+06,21-12-1960,41
+51,One Hundred and One Dalmatians,Walt Disney Productions,"['January 25, 1961']",79,3600000,25-01-1961,NA
+52,The Absent-Minded Professor,Walt Disney Productions,16-Mar-61,97,NA,16-03-1961,NA
+53,The Parent Trap,Walt Disney Productions,"['June 21, 1961']",128,NA,21-06-1961,NA
+54,Nikki: Wild Dog of the North,Walt Disney Productions,"['July 12, 1961']",74,NA,12-07-1961,NA
+55,Greyfriars Bobby,Walt Disney Productions,"['July 17, 1961']",91,NA,17-07-1961,NA
+56,Babes in Toyland,Walt Disney Productions,"['December 14, 1961']",105,3.00E+06,14-12-1961,NA
+57,Moon Pilot,Walt Disney Productions,"April 5, 1962",98,NA,05-04-1962,NA
+58,Bon Voyage!,Walt Disney Productions,"['May 17, 1962']",130,3.00E+06,17-05-1962,47
+59,Big Red,Walt Disney Productions,"['June 6, 1962']",89,NA,06-06-1962,NA
+60,Almost Angels,Walt Disney Productions,26-Sep-62,93,NA,26-09-1962,NA
+61,The Legend of Lobo,Walt Disney Productions,"['November 7, 1962 (Los Angeles)']",67,NA,07-11-1962,NA
+62,In Search of the Castaways,Walt Disney Productions,"['November 14, 1962 (London, premiere)', 'December 19, 1962 (US)']",98,NA,14-11-1962,NA
+63,Son of Flubber,Walt Disney Productions,"['January 16, 1963']",100,NA,16-01-1963,NA
+64,Miracle of the White Stallions,Walt Disney Productions,"['March 29, 1963 (U.S.)']",118,NA,29-03-1963,NA
+65,Savage Sam,Walt Disney Productions,"['June 1, 1963']",103,NA,01-06-1963,12
+66,Summer Magic,Walt Disney Productions,"['July 7, 1963']",110,NA,07-07-1963,NA
+67,The Incredible Journey,Walt Disney Productions,20-Nov-63,80,NA,20-11-1963,NA
+68,The Sword in the Stone,Walt Disney Productions,"['December 25, 1963']",79,3.00E+06,25-12-1963,22
+69,A Tiger Walks,Walt Disney Productions,"['March 12, 1964']",91,NA,12-03-1964,NA
+70,The Misadventures of Merlin Jones,Walt Disney Productions,"['February 11, 1964 (Los Angeles)']",91,NA,11-02-1964,NA
+71,The Three Lives of Thomasina,Walt Disney Productions,"['11 December 1963 ( New York City )', '4 June 1964 (U.S.)']",97,NA,11-12-1963,NA
+72,The Moon-Spinners,Walt Disney Productions,"['July 2, 1964']",118,NA,02-07-1964,0.8
+73,Mary Poppins,Walt Disney Productions,"['August 27, 1964 (LA)', 'September 24, 1964 (NY)']",139,4400000,27-08-1964,NA
+74,Emil and the Detectives,Walt Disney Productions,"['December 18, 1964']",92,NA,18-12-1964,NA
+75,Those Calloways,Walt Disney Productions,"['January 28, 1965', '(', 'Atlanta, Georgia', 'Premiere)']",131,NA,28-01-1965,NA
+76,The Monkey's Uncle,Walt Disney Productions,"['August 18, 1965 (Los Angeles)']",87,NA,18-08-1965,NA
+77,That Darn Cat!,Walt Disney Productions,"['December 2, 1965']",116,NA,02-12-1965,NA
+78,The Ugly Dachshund,Walt Disney Productions,"['February 4, 1966 (premiere)', 'February 16, 1966']",93,NA,04-02-1966,NA
+79,"Lt. Robin Crusoe, U.S.N.",Walt Disney Productions,"['June 25, 1966 (San Diego)', 'June 29, 1966 (U.S.)']",110,NA,25-06-1966,1.9
+80,The Fighting Prince of Donegal,Walt Disney Productions,01-Oct-66,110,NA,01-10-1966,NA
+81,"Follow Me, Boys!",Walt Disney Productions,"['December 1, 1966']",131,NA,01-12-1966,NA
+82,"Monkeys, Go Home!",Walt Disney Productions,"['February 8, 1967 (San Francisco)']",101,NA,08-02-1967,NA
+83,The Adventures of Bullwhip Griffin,Walt Disney Productions,"['June 15, 1967 (uk)']",108,NA,15-06-1967,NA
+84,The Gnome-Mobile,Walt Disney Productions,"['July 12, 1967']",84,NA,12-07-1967,NA
+85,The Jungle Book,Walt Disney Productions,"['October 18, 1967']",78,4.00E+06,18-10-1967,NA
+86,"Charlie, the Lonesome Cougar",Walt Disney Productions,"['October 19, 1967']",75,NA,19-10-1967,NA
+87,The Happiest Millionaire,Walt Disney Productions,"['June 23, 1967', 'November 30, 1967']",164,5.00E+06,23-06-1967,NA
+88,Blackbeard's Ghost,Walt Disney Productions,"['February 8, 1968']",106,NA,08-02-1968,NA
+89,"The One and Only, Genuine, Original Family Band",Walt Disney Productions,"['March 21, 1968 ( Radio City Music Hall )']",110,NA,21-03-1968,25.5
+90,Never a Dull Moment,Walt Disney Productions,"['June 26, 1968']",99,NA,26-06-1968,NA
+91,The Horse in the Gray Flannel Suit,Walt Disney Productions,"['December 3, 1968']",113,NA,03-12-1968,NA
+92,The Love Bug,Walt Disney Productions,"['December 24, 1968 (limited)', 'March 13, 1969 (wide)']",108,5.00E+06,24-12-1968,NA
+93,Smith!,Walt Disney Productions,"['May 9, 1969']",112,NA,09-05-1969,NA
+94,Rascal,Walt Disney Productions,04-Sep-69,93,NA,04-09-1969,NA
+95,The Computer Wore Tennis Shoes,Walt Disney Productions,"['November 28, 1969']",91,NA,28-11-1969,NA
+96,King of the Grizzlies,Walt Disney Productions Robert Lawrence Productions,"['February 11, 1970']",93,NA,11-02-1970,NA
+97,The Boatniks,Walt Disney Productions,01-Jul-70,100,NA,01-07-1970,NA
+98,The Wild Country,Walt Disney Productions,"['December 15, 1970 (original release)', 'January 20, 1971']",100,NA,15-12-1970,NA
+99,The Aristocats,Walt Disney Productions,"['December 11, 1970 (premiere)', 'December 24, 1970 (United States)']",79,4.00E+06,11-12-1970,NA
+100,The Barefoot Executive,Walt Disney Productions,17-Mar-71,96,NA,17-03-1971,NA
+101,Scandalous John,Walt Disney Productions,22-Jun-71,113,NA,22-06-1971,NA
+102,The Million Dollar Duck,Walt Disney Productions,"['June 30, 1971']",89,NA,30-06-1971,NA
+103,Bedknobs and Broomsticks,Walt Disney Productions,"['October 7, 1971 (United Kingdom)', 'December 13, 1971 (United States)']",118,6300000,07-10-1971,NA
+104,The Biscuit Eater,Walt Disney Productions,"['March 22, 1972 (US)']",92,NA,22-03-1972,NA
+105,"Now You See Him, Now You Don't",Walt Disney Productions,12-Jul-72,88,NA,12-07-1972,NA
+106,Napoleon and Samantha,Walt Disney Productions,"['July 5, 1972']",92,NA,05-07-1972,NA
+107,"Run, Cougar, Run",Walt Disney Productions,"['October 18, 1972']",87,NA,18-10-1972,NA
+108,Snowball Express,Walt Disney Productions,"['December 22, 1972']",93,NA,22-12-1972,NA
+109,The World's Greatest Athlete,Walt Disney Productions,01-Feb-73,93,NA,01-02-1973,NA
+110,Charley and the Angel,Walt Disney Productions,"['March 23, 1973']",93,NA,23-03-1973,NA
+111,One Little Indian,Walt Disney Productions,"['June 20, 1973']",90,NA,20-06-1973,NA
+112,Robin Hood,Walt Disney Productions,"['November 8, 1973']",83,5.00E+06,08-11-1973,NA
+113,Superdad,Walt Disney Productions,"['December 14, 1973']",96,NA,14-12-1973,NA
+114,Herbie Rides Again,Walt Disney Productions,"['June 6, 1974']",88,NA,06-06-1974,NA
+115,The Bears and I,Walt Disney Productions,"['July 31, 1974']",89,NA,31-07-1974,NA
+116,The Castaway Cowboy,Walt Disney Productions,"['August 1, 1974']",91,NA,01-08-1974,NA
+117,The Island at the Top of the World,Walt Disney Productions,"December 20, 1974 (with Winnie the Pooh and Tigger Too )",93,8.00E+06,20-12-1974,NA
+118,The Strongest Man in the World,Walt Disney Productions,"['February 6, 1975']",92,NA,06-02-1975,NA
+119,Escape to Witch Mountain,Walt Disney Productions,"['March 21, 1975 (U.S.)']",97,NA,21-03-1975,NA
+120,The Apple Dumpling Gang,Walt Disney Productions,"['July 1, 1975']",100,NA,01-07-1975,NA
+121,One of Our Dinosaurs is Missing,Walt Disney Productions,"['July 9, 1975']",100,NA,09-07-1975,NA
+122,The Best of Walt Disney's True-Life Adventures,Walt Disney Productions,"['October 8, 1975']",89,NA,08-10-1975,NA
+123,Ride a Wild Pony,Walt Disney Productions,25-Dec-75,91,1.00E+06,25-12-1975,NA
+124,"No Deposit, No Return",Walt Disney Productions,"['February 11, 1976 (Los Angeles)']",112,NA,11-02-1976,NA
+125,Treasure of Matecumbe,Walt Disney Productions,"['July 1, 1976']",115,NA,01-07-1976,NA
+126,Gus,Walt Disney Productions,"['July 7, 1976']",95,NA,07-07-1976,NA
+127,The Shaggy D.A.,Walt Disney Productions,"['December 16, 1976']",91,NA,16-12-1976,NA
+128,Freaky Friday: The Movie,Walt Disney Productions,"['December 17, 1976']",95,5.00E+06,17-12-1976,NA
+129,Escape from the Dark,Walt Disney Productions,"['May 26, 1976', '(UK)', 'March 11, 1977', '(US)']",104,NA,26-05-1976,NA
+130,The Many Adventures of,Walt Disney Productions,"['March 11, 1977']",74,NA,11-03-1977,NA
+131,A Tale of Two Critters,Walt Disney Productions,"['June 20, 1977']",48,NA,20-06-1977,NA
+132,The Rescuers,Walt Disney Productions,"['June 22, 1977']",77,7500000,22-06-1977,NA
+133,Herbie Goes to Monte Carlo,Walt Disney Productions,"['June 24, 1977']",104,NA,24-06-1977,NA
+134,Pete's Dragon,Walt Disney Productions,"['November 3, 1977']",128,1.00E+07,03-11-1977,NA
+135,Candleshoe,Walt Disney Productions,16-Dec-77,101,NA,16-12-1977,NA
+136,Return from Witch Mountain,Walt Disney Productions,"['March 10, 1978']",94,NA,10-03-1978,NA
+137,The Cat from Outer Space,Walt Disney Productions,"['June 30, 1978 (New York)']",104,3500000,30-06-1978,NA
+138,Hot Lead and Cold Feet,Walt Disney Productions,05-Jul-78,90,NA,05-07-1978,NA
+139,The North Avenue Irregulars,Walt Disney Productions,09-Feb-79,100,NA,09-02-1979,NA
+140,The Apple Dumpling Gang Rides Again,Walt Disney Productions,"['June 27, 1979']",88,NA,27-06-1979,NA
+141,Unidentified Flying Oddball,Walt Disney Productions,"['July 19, 1979 (London)', 'August 3, 1979 (Los Angeles)']",93,5250000,19-07-1979,NA
+142,The Black Hole,Walt Disney Productions,"['December 18, 1979 (United Kingdom)', 'December 21, 1979 (United States)']",98,2.00E+07,18-12-1979,NA
+143,Midnight Madness,Walt Disney Productions,"['February 8, 1980']",112,NA,08-02-1980,NA
+144,The Watcher in the Woods,Walt Disney Productions,"['April 17, 1980 (New York City)', 'October 9, 1981 (U.S.)']",84,9.00E+06,17-04-1980,NA
+145,Herbie Goes Bananas,Walt Disney Productions,"['June 27, 1980']",98,NA,27-06-1980,NA
+146,The Last Flight of Noah's Ark,Walt Disney Productions,"['July 9, 1980 (Los Angeles)']",97,6.00E+06,09-07-1980,NA
+147,Popeye,,"['December 6, 1980 ( Los Angeles )', 'December 12, 1980 ( United States )']",114,2.00E+07,06-12-1980,NA
+148,The Devil and Max Devlin,Walt Disney Productions,"February 11, 1981 (Los Angeles)",96,NA,11-02-1981,NA
+149,Amy,Walt Disney Productions,20-Mar-81,100,NA,20-03-1981,NA
+150,Dragonslayer,,"['June 26, 1981']",109,1.80E+07,26-06-1981,NA
+151,The Fox and the Hound,Walt Disney Productions,"['July 10, 1981']",83,1.20E+07,10-07-1981,NA
+152,Condorman,Walt Disney Productions,"['August 7, 1981']",90,1.40E+07,07-08-1981,NA
+153,Night Crossing,Walt Disney Productions,05-Feb-82,107,NA,05-02-1982,NA
+154,Tron,,"['July 9, 1982']",96,NA,09-07-1982,NA
+155,Tex,Walt Disney Productions,30-Jul-82,103,5.00E+06,30-07-1982,NA
+156,Trenchcoat,Walt Disney Productions,"['March 11, 1983']",91,NA,11-03-1983,NA
+157,Something Wicked This Way Comes,,"['April 29, 1983 (United States)']",95,2.00E+07,29-04-1983,NA
+158,Never Cry Wolf,,"['October 7, 1983 (limited)', 'January 27, 1984 (release)']",105,1.10E+07,07-10-1983,NA
+159,Return to Oz,,"['June 21, 1985 (United States)']",113,2.80E+07,21-06-1985,NA
+160,The Black Cauldron,,"['July 24, 1985']",80,4.40E+07,24-07-1985,NA
+161,The Journey of Natty Gann,,"['September 27, 1985']",101,NA,27-09-1985,NA
+162,One Magic Christmas,,"['November 22, 1985']",89,NA,22-11-1985,NA
+163,The Great Mouse Detective,,"['July 2, 1986']",74,1.40E+07,02-07-1986,NA
+164,Flight of the Navigator,,"['August 1, 1986']",90,9.00E+06,01-08-1986,NA
+165,Benji the Hunted,,"['June 5, 1987']",89,NA,05-06-1987,NA
+166,The Man from Snowy River II,,['24 March 1988 (Australia)'],110,8700000,24-03-1988,NA
+167,Oliver & Company,,"['November 18, 1988']",74,3.10E+07,18-11-1988,NA
+168,"Honey, I Shrunk the Kids",,"['June 23, 1989']",93,1.80E+07,23-06-1989,NA
+169,Cheetah,,18-Aug-89,84,5.00E+06,18-08-1989,NA
+170,The Little Mermaid,,"['November 17, 1989']",83,4.00E+07,17-11-1989,NA
+171,DuckTales the Movie: Treasure of the Lost Lamp,,"['August 3, 1990']",74,2.00E+07,03-08-1990,NA
+172,The Rescuers Down Under,,"['November 16, 1990']",77,NA,16-11-1990,NA
+173,White Fang,,"['January 18, 1991']",107,1.40E+07,18-01-1991,NA
+174,Shipwrecked,,['3 October 1990'],93,8700000,03-10-1990,NA
+175,Wild Hearts Can't Be Broken,Walt Disney Pictures,"['May 24, 1991']",88,NA,24-05-1991,NA
+176,The Rocketeer,,"['June 21, 1991']",108,3.50E+07,21-06-1991,NA
+177,Beauty and the Beast,,"['September 29, 1991 ( NYFF )', 'November 22, 1991 (United States)']",84,2.50E+07,29-09-1991,NA
+178,Newsies,Walt Disney Pictures,"['April 10, 1992']",121,1.50E+07,10-04-1992,NA
+179,"Honey, I Blew Up the Kid",,"['July 17, 1992']",89,4.00E+07,17-07-1992,NA
+180,The Mighty Ducks,,"['October 2, 1992']",104,1.40E+07,02-10-1992,NA
+181,Aladdin,,"['November 25, 1992']",90,2.80E+07,25-11-1992,NA
+182,The Muppet Christmas Carol,,"['December 11, 1992']",86,1.20E+07,11-12-1992,NA
+183,Homeward Bound: The Incredible Journey,Walt Disney Pictures,03-Feb-93,84,NA,03-02-1993,NA
+184,A Far Off Place,,"['March 12, 1993']",108,NA,12-03-1993,NA
+185,The Adventures of Huck Finn,Walt Disney Pictures,"['April 2, 1993']",107,6500000,02-04-1993,NA
+186,Hocus Pocus,Walt Disney Pictures,"['July 16, 1993']",96,2.80E+07,16-07-1993,NA
+187,Cool Runnings,Walt Disney Pictures,"['October 1, 1993']",98,1.70E+07,01-10-1993,NA
+188,The Three Musketeers,,"['November 12, 1993']",105,3.00E+07,12-11-1993,NA
+189,Iron Will,Walt Disney Pictures,"['January 14, 1994']",108,NA,14-01-1994,NA
+190,Blank Check,Walt Disney Pictures,"['February 11, 1994']",94,1.30E+07,11-02-1994,NA
+191,D2: The Mighty Ducks,,"['April 17, 1994']",106,NA,17-04-1994,NA
+192,White Fang 2: Myth of the White Wolf,Walt Disney Pictures,"['April 14, 1994']",102,NA,14-04-1994,NA
+193,The Lion King,,"['June 15, 1994 (United States)']",88,4.50E+07,15-06-1994,NA
+194,Angels in the Outfield,,"['July 15, 1994']",102,3.10E+07,15-07-1994,NA
+195,Squanto: A Warrior's Tale,Walt Disney Pictures,"['October 28, 1994']",102,NA,28-10-1994,NA
+196,The Santa Clause,,"['November 11, 1994']",97,2.20E+07,11-11-1994,NA
+197,Rudyard Kipling's The Jungle Book,,"['December 25, 1994']",111,3.00E+07,25-12-1994,NA
+198,Heavyweights,,"['February 17, 1995']",100,NA,17-02-1995,NA
+199,Man of the House,,"['March 3, 1995']",96,2.20E+07,03-03-1995,NA
+200,Tall Tale,,"['March 24, 1995']",98,3.20E+07,24-03-1995,NA
+201,A Goofy Movie,,"['April 7, 1995']",78,1.80E+07,07-04-1995,NA
+202,Pocahontas,,"['June 10, 1995', 'June 23, 1995']",81,5.50E+07,10-06-1995,NA
+203,Operation Dumbo Drop,,"['July 28, 1995']",108,2.40E+07,28-07-1995,NA
+204,A Kid in King Arthur's Court,,"['August 11, 1995']",89,1.50E+07,11-08-1995,NA
+205,The Big Green,,"['September 28, 1995']",99,1.20E+07,28-09-1995,NA
+206,Frank and Ollie,,"['January 22, 1995 ( Sundance Film Festival )', 'October 20, 1995 (U.S.)']",89,NA,22-01-1995,NA
+207,Toy Story,,"['November 19, 1995 ( El Capitan Theatre )', 'November 22, 1995 (United States)']",81,3.00E+07,19-11-1995,NA
+208,Tom and Huck,Walt Disney Pictures,"['December 22, 1995']",92,NA,22-12-1995,NA
+209,Muppet Treasure Island,,"['February 16, 1996']",100,3.10E+07,16-02-1996,NA
+210,Homeward Bound II: Lost in San Francisco,Walt Disney Pictures,"['March 8, 1996']",89,NA,08-03-1996,NA
+211,James and the Giant Peach,,"['April 12, 1996 (United States)', 'August 2, 1996 (United Kingdom)']",79,3.80E+07,12-04-1996,NA
+212,The Hunchback of Notre Dame,,"['June 21, 1996']",91,7.00E+07,21-06-1996,NA
+213,First Kid,,"['August 30, 1996']",101,1.50E+07,30-08-1996,NA
+214,D3: The Mighty Ducks,,"['October 4, 1996']",104,NA,04-10-1996,NA
+215,101 Dalmatians,,"['November 27, 1996 (United States)']",103,6.70E+07,27-11-1996,NA
+216,That Darn Cat,,"['February 14, 1997']",86,NA,14-02-1997,NA
+217,Jungle 2 Jungle,,"['March 7, 1997 (US)', 'August 5, 1997 (France)']",105,3.20E+07,07-03-1997,NA
+218,Hercules,,"['June 13, 1997 (limited release)', 'June 27, 1997 (wide release)']",93,8.50E+07,13-06-1997,NA
+219,George of the Jungle,,"['July 16, 1997']",92,5.50E+07,16-07-1997,NA
+220,Air Bud,,"['August 1, 1997']",98,3.00E+06,01-08-1997,NA
+221,RocketMan,,"['October 10, 1997']",95,1.60E+07,10-10-1997,NA
+222,Flubber,,"['November 16, 1997 ( Pennsylvania )', 'November 26, 1997 (United States)']",93,8.00E+07,16-11-1997,NA
+223,Mr. Magoo,,"['December 25, 1997']",87,3.00E+07,25-12-1997,NA
+224,Meet the Deedles,,"['March 27, 1998 (United States)']",93,2.40E+07,27-03-1998,NA
+225,Mulan,,"['June 19, 1998']",87,9.00E+07,19-06-1998,NA
+226,The Parent Trap,Walt Disney Pictures,"['July 29, 1998 (United States)']",128,1.50E+07,29-07-1998,NA
+227,I'll Be Home for Christmas,,"['November 13, 1998']",86,3.00E+07,13-11-1998,NA
+228,A Bug's Life,,"['November 20, 1998']",95,1.20E+08,20-11-1998,NA
+229,Mighty Joe Young,,"['December 25, 1998']",114,9.00E+07,25-12-1998,NA
+230,My Favorite Martian,Walt Disney Pictures,"['February 12, 1999']",93,6.50E+07,12-02-1999,NA
+231,Doug's 1st Movie,,"['March 26, 1999']",83,5.00E+06,26-03-1999,NA
+232,Endurance,Walt Disney Pictures,"['May 14, 1999']",83,NA,14-05-1999,NA
+233,Tarzan,,"['June 12, 1999 ( El Capitan Theatre )', 'June 16, 1999 (United States )']",88,1.30E+08,12-06-1999,NA
+234,Inspector Gadget,,"['July 23, 1999']",78,7.50E+07,23-07-1999,NA
+235,The Straight Story,,"['May 1999 ( Cannes )', 'October 15, 1999 (United States)']",112,1.00E+07,,NA
+236,Toy Story 2,,"['November 13, 1999 ( El Capitan Theatre )', 'November 24, 1999 (United States)']",92,9.00E+07,13-11-1999,NA
+237,Fantasia 2000,,"['December 17, 1999 (Premiere)', 'January 1, 2000 ( IMAX )', 'June 16, 2000 (United States)']",74,8.50E+07,17-12-1999,NA
+238,The Tigger Movie,,"['February 11, 2000 (United States)']",78,1.50E+07,11-02-2000,NA
+239,Whispers: An Elephant's Tale,Walt Disney Pictures,"['March 10, 2000']",72,4.00E+06,10-03-2000,NA
+240,Dinosaur,,"['May 19, 2000 (United States)']",82,127500000,19-05-2000,NA
+241,Disney's The Kid,,"['July 7, 2000']",104,6.50E+07,07-07-2000,NA
+242,Remember the Titans,,"['September 29, 2000']",113,3.00E+07,29-09-2000,NA
+243,102 Dalmatians,,"['November 22, 2000 (United States)']",100,8.50E+07,22-11-2000,NA
+244,The Emperor's New Groove,,"['December 15, 2000']",78,1.00E+08,15-12-2000,NA
+245,Recess: School's Out,,"['February 10, 2001 (premiere)', 'February 16, 2001 (United States)']",83,2.30E+07,10-02-2001,NA
+246,Atlantis: The Lost Empire,,"['June 3, 2001 (premiere)', 'June 15, 2001 (United States)']",96,9.00E+07,03-06-2001,NA
+247,The Princess Diaries,,"['July 29, 2001 ( El Capitan Theatre )', 'August 3, 2001 (United States)']",115,2.60E+07,29-07-2001,NA
+248,Max Keeble's Big Move,,"['October 5, 2001']",86,2.50E+07,05-10-2001,NA
+249,"Monsters, Inc.",,"['October 28, 2001 ( El Capitan Theatre )', 'November 2, 2001 (United States)']",92,1.15E+08,28-10-2001,NA
+250,Snow Dogs,,"['January 18, 2002']",99,3.30E+07,18-01-2002,NA
+251,Return to Never Land,,"['February 10, 2002 ( New York City )', 'February 15, 2002 (United States)']",73,2.00E+07,10-02-2002,NA
+252,The Rookie,,"['March 29, 2002']",128,2.20E+07,29-03-2002,NA
+253,Lilo & Stitch,,"['June 21, 2002']",85,8.00E+07,21-06-2002,NA
+254,The Country Bears,Walt Disney Pictures,"['July 21, 2002', 'July 26, 2002']",88,3.50E+07,21-07-2002,NA
+255,Spirited Away,Studio Ghibli,['20 July 2001 (Japan)'],125,1.50E+07,20-07-2001,NA
+256,Tuck Everlasting,,"['October 11, 2002 (U.S.)']",96,1.50E+07,11-10-2002,NA
+257,The Santa Clause 2,,"['November 1, 2002']",104,6.50E+07,01-11-2002,NA
+258,Treasure Planet,,"['November 27, 2002']",95,1.40E+08,27-11-2002,NA
+259,The Jungle Book 2,,"['February 14, 2003']",72,2.00E+07,14-02-2003,NA
+260,Piglet's Big Movie,,"['March 16, 2003 (premiere)', 'March 21, 2003 (United States)', 'July 2, 2003 ( Manila , Philippines )']",75,4.60E+07,16-03-2003,NA
+261,Ghosts of the Abyss,,"['March 31, 2003 (premiere)', 'April 11, 2003 (limited)']",61,1.30E+07,31-03-2003,NA
+262,Holes,,"['April 18, 2003 (United States)']",117,2.00E+07,18-04-2003,NA
+263,The Lizzie McGuire Movie,,"['May 2, 2003 (United States)', 'August 29, 2003 (United Kingdom)']",94,1.70E+07,02-05-2003,NA
+264,Finding Nemo,,"['May 30, 2003']",100,9.40E+07,30-05-2003,NA
+265,Pirates of the Caribbean: The Curse of the Black Pearl,,"['June 28, 2003 ( Disneyland Resort )', 'July 9, 2003 (United States)']",143,1.40E+08,28-06-2003,NA
+266,Freaky Friday,,"['August 4, 2003 ( Los Angeles )', 'August 6, 2003 (United States)']",97,2.60E+07,04-08-2003,NA
+267,Brother Bear,,"['November 1, 2003']",85,4.60E+07,01-11-2003,NA
+268,The Haunted Mansion,Walt Disney Pictures,"['November 26, 2003']",86,9.00E+07,26-11-2003,NA
+269,The Young Black Stallion,,"['December 25, 2003']",50,NA,25-12-2003,NA
+270,Teacher's Pet,,"['January 16, 2004']",74,1.00E+07,16-01-2004,NA
+271,Miracle,,"['February 20, 2004']",136,2.80E+07,20-02-2004,NA
+272,Confessions of a Teenage Drama Queen,Walt Disney Pictures,"['February 17, 2004 (United States)']",89,1.50E+07,17-02-2004,NA
+273,Home on the Range,,"['April 2, 2004']",76,1.10E+08,02-04-2004,NA
+274,Sacred Planet,Walt Disney Pictures,"['April 22, 2004']",40,NA,22-04-2004,NA
+275,Around the World in 80 Days,,"['June 16, 2004']",120,1.10E+08,16-06-2004,NA
+276,America's Heart and Soul,,"['July 2, 2004']",84,NA,02-07-2004,NA
+277,The Princess Diaries 2: Royal Engagement,,"['August 11, 2004']",113,4.50E+07,11-08-2004,NA
+278,The Incredibles,,"['October 24, 2004 ( El Capitan Theatre )', 'October 27, 2004 ( BFI London Film Festival )', 'November 5, 2004 (United States)']",115,9.20E+07,24-10-2004,NA
+279,National Treasure,,"['November 19, 2004']",131,1.00E+08,19-11-2004,NA
+280,Aliens of the Deep,,"['January 28, 2005']",100,NA,28-01-2005,NA
+281,Pooh's Heffalump Movie,,"['February 11, 2005']",68,2.00E+07,11-02-2005,NA
+282,The Pacifier,,"['March 4, 2005']",95,5.60E+07,04-03-2005,NA
+283,Ice Princess,,"['March 18, 2005']",97,2.50E+07,18-03-2005,NA
+284,Herbie: Fully Loaded,,"['June 22, 2005']",101,5.00E+07,22-06-2005,NA
+285,Howl's Moving Castle,Studio Ghibli,"['5 September 2004 ( Venice )', '20 November 2004 (Japan)']",119,NA,05-09-2004,NA
+286,Sky High,,"['July 29, 2005']",100,3.50E+07,29-07-2005,NA
+287,Valiant,,"['March 25, 2005 (UK)', 'August 19, 2005 (US)']",76,3.50E+07,25-03-2005,NA
+288,The Greatest Game Ever Played,Walt Disney Pictures,"['September 30, 2005']",120,2.50E+07,30-09-2005,NA
+289,Chicken Little,,"['October 30, 2005 ( El Capitan Theatre )', 'November 4, 2005 (United States)']",81,1.50E+08,30-10-2005,NA
+290,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",,"['December 7, 2005 ( Royal Film Performance )', 'December 8, 2005 (United Kingdom)', 'December 9, 2005 (United States)']",143,1.80E+08,07-12-2005,NA
+291,Glory Road,,13-Jan-06,118,3.00E+07,13-01-2006,NA
+292,Roving Mars,,"['January 27, 2006']",40,1.00E+06,27-01-2006,NA
+293,Eight Below,,"['February 17, 2006 (United States)']",120,4.00E+07,17-02-2006,NA
+294,The Shaggy Dog,,"['March 10, 2006']",99,5.00E+07,10-03-2006,NA
+295,The Wild,,"['April 14, 2006']",82,8.00E+07,14-04-2006,NA
+296,Cars,,"[""May 26, 2006 ( Lowe's Motor Speedway )"", 'June 9, 2006 (United States)']",117,1.20E+08,26-05-2006,NA
+297,Pirates of the Caribbean: Dead Man's Chest,,"['June 24, 2006 ( Disneyland Resort )', 'July 7, 2006 (United States)']",150,2.25E+08,24-06-2006,NA
+298,Invincible,,"['August 25, 2006']",104,3.00E+07,25-08-2006,NA
+299,The Nightmare Before Christmas,,"['October 29, 1993']",76,2.40E+07,29-10-1993,NA
+300,The Santa Clause 3: The Escape Clause,,"['November 3, 2006']",92,1.20E+07,03-11-2006,NA
+301,Bridge to Terabithia,,"['February 16, 2007']",95,2.00E+07,16-02-2007,NA
+302,Meet the Robinsons,,"['March 23, 2007 (US)', 'March 30, 2007 (UK)']",94,1.50E+08,23-03-2007,NA
+303,Pirates of the Caribbean: At World's End,,"['May 19, 2007 ( Disneyland Resort )', 'May 25, 2007 (United States)']",167,3.00E+08,19-05-2007,NA
+304,Ratatouille,,"['June 22, 2007 ( Kodak Theatre )', 'June 29, 2007 (United States)']",111,1.50E+08,22-06-2007,NA
+305,The Secret of the Magic Gourd,,"['June 29, 2007']",85,NA,29-06-2007,NA
+306,Underdog,,"['August 3, 2007']",82,2.50E+07,03-08-2007,NA
+307,The Pixar Story,,"['August 28, 2007']",87,NA,28-08-2007,NA
+308,The Game Plan,,"['September 23, 2007 ( Hollywood )', 'September 28, 2007 (United States)']",110,2.20E+07,23-09-2007,NA
+309,Enchanted,,"['October 20, 2007 ( London )', 'November 21, 2007 (United States)']",107,8.50E+07,20-10-2007,NA
+310,National Treasure: Book of Secrets,,"['December 21, 2007']",124,1.30E+08,21-12-2007,NA
+311,Hannah Montana and Miley Cyrus: Best of Both Worlds Concert,Walt Disney Pictures,01-Feb-08,74,7.00E+06,01-02-2008,NA
+312,College Road Trip,,"['March 7, 2008']",83,2.50E+07,07-03-2008,NA
+313,The Chronicles of Narnia: Prince Caspian,,"['May 7, 2008 ( New York City )', 'May 16, 2008 (United States)', 'June 26, 2008 (United Kingdom)']",150,2.25E+08,07-05-2008,NA
+314,WALL-E,,"['June 23, 2008 ( Los Angeles )', 'June 27, 2008 (United States)']",97,1.80E+08,23-06-2008,NA
+315,Beverly Hills Chihuahua,,"['October 3, 2008 (United States)']",91,2.00E+07,03-10-2008,NA
+316,Morning Light,Walt Disney Pictures,17-Oct-08,100,NA,17-10-2008,NA
+317,High School Musical 3: Senior Year,,"['October 17, 2008 (London)', 'October 24, 2008 (United States)']",112,1.10E+07,17-10-2008,NA
+318,Roadside Romeo,,"['23 October 2008 (Kuwait)', '24 October 2008 (India and United States)']",93,NA,23-10-2008,NA
+319,Bolt,,"['November 21, 2008']",96,1.50E+08,21-11-2008,NA
+320,Bedtime Stories,,"['December 25, 2008']",99,8.00E+07,25-12-2008,NA
+321,Jonas Brothers: The 3D Concert Experience,,"['February 27, 2009']",76,NA,27-02-2009,NA
+322,Race to Witch Mountain,,"['March 11, 2009 (Egypt)', 'March 13, 2009 (United States)']",98,5.00E+07,11-03-2009,NA
+323,Hannah Montana: The Movie,,"['April 10, 2009']",97,3.00E+07,10-04-2009,NA
+324,Earth,,"['10 October 2007 (France)', '16 November 2007 (United Kingdom)', '12 January 2008 (Germany)', '22 April 2009 (United States)']",99,4.70E+07,10-10-2007,NA
+325,Up,,"['May 29, 2009']",96,1.75E+08,29-05-2009,NA
+326,Hexe Lilli: Der Drache und das magische Buch,Walt Disney Pictures,,NA,NA,,NA
+327,G-Force,,"['July 24, 2009']",90,1.50E+08,24-07-2009,NA
+328,Ponyo,Studio Ghibli,"['July 19, 2008']",101,NA,19-07-2008,NA
+329,Walt & El Grupo,,['2008'],107,NA,,NA
+330,Книга Мастеров,,"['October 29, 2009']",101,8.00E+06,29-10-2009,NA
+331,A Christmas Carol,,"['November 3, 2009 ( London )', 'November 6, 2009 (United States)']",96,1.75E+08,03-11-2009,NA
+332,Old Dogs,,"['November 25, 2009']",88,3.50E+07,25-11-2009,NA
+333,The Princess and the Frog,,"['November 25, 2009 (Los Angeles premiere)', 'December 11, 2009 (United States)']",97,1.05E+08,25-11-2009,NA
+334,Alice in Wonderland,,"['February 25, 2010 ( Odeon Leicester Square )', 'March 5, 2010 (United States)']",108,2.00E+08,25-02-2010,NA
+335,Oceans,,"['October 17, 2009 ( Tokyo International Film Festival )', 'January 24, 2010 (France)']",104,8.00E+07,17-10-2009,NA
+336,Prince of Persia: The Sands of Time,,"['May 9, 2010 (London premiere)', 'May 28, 2010 (United States)']",116,1.50E+08,09-05-2010,NA
+337,Toy Story 3,,"['June 12, 2010 ( Taormina Film Fest )', 'June 18, 2010 (United States)']",103,2.00E+08,12-06-2010,NA
+338,The Sorcerer's Apprentice,,"['July 8, 2010 (Fantasia Film Festival)', 'July 14, 2010']",109,1.50E+08,08-07-2010,NA
+339,Tales from Earthsea,Studio Ghibli,"['July 29, 2006']",115,2.20E+07,29-07-2006,NA
+340,The Crimson Wing: Mystery of the Flamingos,,"['26 October 2008 ( France )', '29 September 2009 ( United Kingdom )']",74,NA,26-10-2008,NA
+341,Secretariat,,"['September 30, 2010 ( Hollywood )', 'October 8, 2010 (United States)']",123,3.50E+07,30-09-2010,NA
+342,Do Dooni Chaar,,['8 October 2010'],108,NA,08-10-2010,NA
+343,Tangled,,"['November 14, 2010 ( El Capitan Theatre )', 'November 24, 2010 (United States)']",100,2.60E+08,14-11-2010,NA
+344,The Boys: The Sherman Brothers' Story,,"['April 24, 2009 (San Francisco International Film Festival)', 'May 22, 2009 (United States)']",101,NA,24-04-2009,NA
+345,Tron: Legacy,,"['November 30, 2010 (Tokyo)', 'December 17, 2010 (United States)']",125,1.70E+08,30-11-2010,NA
+346,Anaganaga O Dheerudu,,['14 January 2011 (India)'],NA,3800000,14-01-2011,NA
+347,Lilly the Witch: The Journey to Mandolan,Walt Disney Pictures,['17 February 2011'],90,NA,17-02-2011,NA
+348,Mars Needs Moms,,"['March 11, 2011']",88,1.50E+08,11-03-2011,NA
+349,Zokkomon,,['22 April 2011'],109,NA,22-04-2011,NA
+350,African Cats,,"['April 22, 2011 (United States)', 'February 1, 2012 (France)', 'April 27, 2012 (United Kingdom)']",89,5.00E+06,22-04-2011,NA
+351,Prom,Walt Disney Pictures,"['April 29, 2011']",104,8.00E+06,29-04-2011,NA
+352,Pirates of the Caribbean: On Stranger Tides,,"['May 7, 2011 ( Disneyland Resort )', 'May 20, 2011 (United States)']",137,410600000,07-05-2011,NA
+353,Cars 2,,"['June 18, 2011 (Hollywood)', 'June 24, 2011 (United States)']",106,2.00E+08,18-06-2011,NA
+354,Winnie the Pooh,,"['April 6, 2011 (Belgium)', 'July 15, 2011 (United States)']",63,3.00E+07,06-04-2011,NA
+355,The Muppets,,"['November 4, 2011 (Savannah Film Festival)', 'November 23, 2011 (United States)']",103,4.50E+07,04-11-2011,NA
+356,Arrietty,Studio Ghibli,['17 July 2010'],95,2.30E+07,17-07-2010,NA
+357,John Carter,Walt Disney Pictures,"['February 22, 2012 ( Los Angeles )', 'March 9, 2012 (United States)']",132,306600000,22-02-2012,NA
+358,Chimpanzee,,"['April 20, 2012 (United States)', 'February 20, 2013 (France)', 'May 3, 2013 (United Kingdom)']",77,5.00E+06,20-04-2012,NA
+359,Arjun: The Warrior Prince,,['25 May 2012'],96,NA,25-05-2012,NA
+360,Brave,,"['June 10, 2012 ( SIFF )', 'June 22, 2012 (United States)']",93,1.85E+08,10-06-2012,NA
+361,The Odd Life of Timothy Green,,"['August 15, 2012']",104,2.50E+07,15-08-2012,NA
+362,Frankenweenie,,"['September 20, 2012 (Fantastic Fest)', 'October 5, 2012 (United States)']",87,3.90E+07,20-09-2012,NA
+363,Wreck-It Ralph,,"['October 29, 2012 ( El Capitan Theatre )', 'November 2, 2012 (United States)']",101,1.65E+08,29-10-2012,NA
+364,Oz the Great and Powerful,,"['February 14, 2013 ( El Capitan Theatre )', 'March 8, 2013 (United States)']",130,2.00E+08,14-02-2013,NA
+365,Wings of Life,,"['16 March 2011 (France)', '16 April 2013 (United States)']",77,NA,16-03-2011,NA
+366,Monsters University,,"['June 5, 2013 ( BFI Southbank )', 'June 21, 2013 (United States)']",104,2.00E+08,05-06-2013,NA
+367,The Lone Ranger,,"['June 22, 2013 ( Hyperion Theatre )', 'July 3, 2013 (United States)']",150,2.25E+08,22-06-2013,NA
+368,Planes,,"['August 2, 2013 ( EAA AirVenture Oshkosh )', 'August 9, 2013 (United States)']",92,5.00E+07,02-08-2013,NA
+369,Frozen,,"['November 19, 2013 ( El Capitan Theatre )', 'November 22, 2013 (United States)']",102,1.50E+08,19-11-2013,NA
+370,Saving Mr. Banks,,"['October 20, 2013 ( BFI London Film Festival )', 'November 29, 2013 (United Kingdom)', 'December 13, 2013 (United States)', 'January 9, 2014 (Australia)']",125,3.50E+07,20-10-2013,NA
+371,Muppets Most Wanted,,"['March 11, 2014 ( El Capitan Theatre )', 'March 21, 2014 (United States)']",107,5.10E+07,11-03-2014,NA
+372,Bears,,"['April 18, 2014 (United States)']",77,5.00E+06,18-04-2014,NA
+373,Million Dollar Arm,,"['May 6, 2014 ( El Capitan Theatre )', 'May 16, 2014 (United States)']",124,2.50E+07,06-05-2014,NA
+374,Maleficent,,"['May 28, 2014 ( El Capitan Theatre )', 'May 30, 2014 (United States)']",97,1.80E+08,28-05-2014,NA
+375,Planes: Fire & Rescue,,"['July 15, 2014 ( El Capitan Theatre )', 'July 18, 2014 (United States)']",84,5.00E+07,15-07-2014,NA
+376,Khoobsurat,,['19 September 2014'],127,3200000,19-09-2014,NA
+377,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",,"['October 6, 2014 ( El Capitan Theatre )', 'October 10, 2014 (United States)']",81,2.80E+07,06-10-2014,NA
+378,Big Hero 6,,"['October 23, 2014 ( Tokyo International Film Festival )', 'October 31, 2014 ( Abu Dhabi Film Festival )', 'November 7, 2014 (United States)']",102,1.65E+08,23-10-2014,NA
+379,Into the Woods,,"['December 8, 2014 ( Ziegfeld Theatre )', 'December 25, 2014 (United States)']",124,5.00E+07,08-12-2014,NA
+380,"McFarland, USA",,"['February 9, 2015 ( Hollywood )', 'February 20, 2015 (United States)']",129,1.70E+07,09-02-2015,NA
+381,Cinderella,,"['February 13, 2015 ( Berlin )', 'March 13, 2015 (United States)', 'March 27, 2015 (United Kingdom)']",106,84210000,13-02-2015,NA
+382,Monkey Kingdom,,"['April 17, 2015 (United States)']",82,5.00E+06,17-04-2015,NA
+383,Tomorrowland,,"['May 9, 2015 ( Disneyland )', 'May 22, 2015 (United States)']",130,1.80E+08,09-05-2015,NA
+384,Inside Out,,"['May 18, 2015 ( Cannes )', 'June 19, 2015 (United States)']",95,1.75E+08,18-05-2015,NA
+385,ABCD 2,Walt Disney Pictures,['19 June 2015'],154,NA,19-06-2015,NA
+386,The Good Dinosaur,,"['November 10, 2015 ( Paris )', 'November 25, 2015 (United States)']",97,1.75E+08,10-11-2015,NA
+387,The Finest Hours,,"['January 25, 2016 ( TCL Chinese Theatre )', 'January 29, 2016 (United States)']",117,7.00E+07,25-01-2016,NA
+388,Zootopia,,"['February 13, 2016 (Belgium)', 'March 4, 2016 (United States)']",108,1.50E+08,13-02-2016,NA
+389,The Jungle Book,,"['April 4, 2016 ( El Capitan Theatre )', 'April 15, 2016 (United States)']",106,1.75E+08,04-04-2016,NA
+390,Tini: The Movie,,"['April 23, 2016 (Amsterdam)', 'May 6, 2016 (Spain)', 'May 12, 2016 (Italy)']",98,NA,23-04-2016,NA
+391,Alice Through the Looking Glass,,"['May 10, 2016 ( London )', 'May 27, 2016 (United States)']",113,1.70E+08,10-05-2016,NA
+392,Finding Dory,,"['June 8, 2016 ( El Capitan Theatre )', 'June 17, 2016 (United States)']",97,1.75E+08,08-06-2016,NA
+393,The BFG,,"['May 14, 2016 ( Cannes )', 'July 1, 2016 (United States)', 'July 22, 2016 (United Kingdom)']",118,1.40E+08,14-05-2016,NA
+394,Pete's Dragon,,"['August 8, 2016 ( El Capitan Theatre )', 'August 12, 2016 (United States)']",103,6.50E+07,08-08-2016,NA
+395,Queen of Katwe,,"['September 10, 2016 ( TIFF )', 'September 23, 2016 (United States)']",124,1.50E+07,10-09-2016,NA
+396,Moana,,"['November 14, 2016 ( AFI Fest )', 'November 23, 2016 (United States)']",107,1.50E+08,14-11-2016,NA
+397,Dangal,,"['21 December 2016 (United States)', '23 December 2016 (India)']",161,NA,21-12-2016,NA
+398,March of the Penguins,,['26 January 2005'],80,8.00E+06,26-01-2005,NA
+399,Beauty and the Beast,,"['February 23, 2017 ( Spencer House )', 'March 17, 2017 (United States)']",129,1.60E+08,23-02-2017,NA
+400,Born in China,,"['August 12, 2016 (China)', 'April 21, 2017 (United States)', 'August 23, 2017 (France)']",76,5.00E+06,12-08-2016,NA
+401,Pirates of the Caribbean: Dead Men Tell No Tales,,"['May 11, 2017 ( Shanghai Disney Resort )', 'May 26, 2017 (United States)']",129,2.30E+08,11-05-2017,NA
+402,Cars 3,,"['May 23, 2017 ( Kannapolis )', 'June 16, 2017 (United States)']",102,1.75E+08,23-05-2017,NA
+403,Ghost of the Mountains,,"['June 30, 2017 (United States)']",NA,NA,30-06-2017,NA
+404,Jagga Jasoos,,['14 July 2017'],162,NA,14-07-2017,NA
+405,The Last Knight,,"['October 29, 2017 ( Russia )']",114,8.00E+06,29-10-2017,NA
+406,Coco,,"['October 20, 2017 ( Morelia )', 'November 22, 2017 (United States)']",105,1.75E+08,20-10-2017,NA
+407,A Wrinkle in Time,,"['February 26, 2018 ( El Capitan Theatre )', 'March 9, 2018 (United States)']",109,1.00E+08,26-02-2018,NA
+408,Incredibles 2,,"['June 5, 2018 ( Los Angeles )', 'June 15, 2018 (United States)']",118,2.00E+08,05-06-2018,NA
+409,Christopher Robin,,"['July 30, 2018 ( Burbank )', 'August 3, 2018 (United States)']",104,6.50E+07,30-07-2018,NA
+410,The Nutcracker and the Four Realms,,"['October 29, 2018 ( Dolby Theatre )', 'November 2, 2018 (United States)']",99,1.20E+08,29-10-2018,NA
+411,Ralph Breaks the Internet,,"['November 5, 2018 ( El Capitan Theatre )', 'November 21, 2018 (United States)']",112,1.75E+08,05-11-2018,NA
+412,Mary Poppins Returns,,"['November 29, 2018 ( Dolby Theatre )', 'December 19, 2018 (United States)']",131,1.30E+08,29-11-2018,NA
+413,Dumbo,,"['March 11, 2019 ( Los Angeles )', 'March 29, 2019 (United States)']",112,1.70E+08,11-03-2019,NA
+414,Penguins,,"['April 17, 2019 (United States)']",76,NA,17-04-2019,NA
+415,Aladdin,,"['May 8, 2019 ( Grand Rex )', 'May 24, 2019 (United States)']",128,1.83E+08,08-05-2019,NA
+416,Toy Story 4,,"['June 11, 2019 ( El Capitan Theatre )', 'June 21, 2019 (United States)']",100,2.00E+08,11-06-2019,NA
+417,The Lion King,,"['July 9, 2019 ( Hollywood )', 'July 19, 2019 (United States)']",118,2.50E+08,09-07-2019,NA
+418,Maleficent: Mistress of Evil,,"['October 18, 2019']",119,1.85E+08,18-10-2019,NA
+419,Lady and the Tramp,,"['November 12, 2019 (United States)']",104,6.00E+07,12-11-2019,NA
+420,Noelle,Walt Disney Pictures,"['November 12, 2019 (United States)']",100,NA,12-11-2019,NA
+421,Frozen II,,"['November 7, 2019 ( Dolby Theatre )', 'November 22, 2019 (United States)']",103,1.50E+08,07-11-2019,NA
+422,Togo,Walt Disney Pictures,"['December 20, 2019 (United States)']",114,4.00E+07,20-12-2019,NA
+423,Timmy Failure: Mistakes Were Made,,"['January 25, 2020 ( Sundance )', 'February 7, 2020 ( Disney+ )']",99,4.20E+07,25-01-2020,NA
+424,Onward,,"['February 21, 2020 ( Berlinale )', 'March 6, 2020 (United States)']",102,1.75E+08,21-02-2020,NA
+425,Stargirl,,"['March 13, 2020 (United States)']",107,NA,13-03-2020,NA
+426,Dolphin Reef,Disneynature,"['March 28, 2018 (France)', 'April 3, 2020 ( Disney+ )']",78,NA,28-03-2018,NA
+427,Elephant,Disneynature,"['April 3, 2020']",89,NA,03-04-2020,NA
+428,Artemis Fowl,,"['June 12, 2020']",95,1.25E+08,12-06-2020,NA
+429,Hamilton,,"['July 3, 2020']",160,12500000,03-07-2020,NA
+430,Black Is King,,"['July 31, 2020']",85,NA,31-07-2020,NA
+431,Magic Camp,,"['August 14, 2020']",100,2.40E+07,14-08-2020,NA
+432,The One and Only Ivan,,"['August 21, 2020 (United States)']",95,NA,21-08-2020,NA
+433,Mulan,,"['March 9, 2020 ( Hollywood )', 'September 4, 2020 (United States)']",115,2.00E+08,09-03-2020,NA
+434,Godmothered,,"['December 4, 2020']",113,NA,04-12-2020,NA
+435,Safety,,"['December 11, 2020 (United States)']",119,NA,11-12-2020,NA
+436,Soul,,"['October 11, 2020 ( BFI Fest )', 'December 25, 2020 (United States)']",100,1.50E+08,11-10-2020,NA
+437,The Last Warrior: Root of Evil,,"['January 1, 2021 ( Russia )']",121,NA,01-01-2021,NA
+438,Flora & Ulysses,,"['February 19, 2021']",95,NA,19-02-2021,NA
+439,Raya and the Last Dragon,,"['March 5, 2021 (United States)']",107,1.00E+08,05-03-2021,NA
+440,Cruella,,"['May 18, 2021 ( El Capitan Theatre )', 'May 28, 2021 (United States)']",134,1.00E+08,18-05-2021,NA
+441,Luca,,"['June 13, 2021 ( Aquarium of Genoa )', 'June 18, 2021 (United States)']",95,NA,13-06-2021,NA
+442,Jungle Cruise,,"['July 24, 2021 ( Disneyland Resort )', 'July 30, 2021 (United States)']",127,2.00E+08,24-07-2021,NA
+443,Encanto,,"['November 24, 2021']",NA,NA,24-11-2021,NA
+444,Turning Red,,"['March 11, 2022 (United States)']",NA,NA,11-03-2022,NA
+445,The Little Mermaid,,26-May-23,NA,NA,26-05-2023,NA
+446,Disenchanted,,['2022'],NA,NA,,NA
+447,Peter Pan & Wendy,,['2022'],NA,NA,,NA
+448,Chip 'n Dale: Rescue Rangers,,,NA,NA,,NA
+449,Hocus Pocus,Walt Disney Pictures,"['July 16, 1993']",96,2.80E+07,16-07-1993,NA
+450,Shrunk,,,NA,NA,,NA
+451,Pinocchio,,,NA,NA,,NA
+452,Hollywood Stargirl,,,NA,NA,,NA
